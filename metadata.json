@@ -1,0 +1,8 @@
+{
+  "name": "Copy of BaristaPro: Artisanal Coffee Hub",
+  "description": "A comprehensive coffee enthusiast ecosystem featuring brewing logs, a discovery feed, bean marketplace, and event calendar.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
